@@ -1,5 +1,5 @@
-# React Boilerplate
-Just another Boilerplate for React app.
+# React Weather
+Just another Weather using React.
 
 ## License
 
